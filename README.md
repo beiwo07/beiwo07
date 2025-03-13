@@ -7,8 +7,11 @@ I'm an epidemiologist who loves turning health data into meaningful insights. Wh
 My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific Analysis of Genome-Wide 5-Hydroxymethylcytosine in Circulating Cell-Free DNA 
 
 🚀My expertise: 
+
 📌 Study Designs & Methodology Observational studies (cohort, case-control), bias & confounding control, causal inference, sampling strategies, data integrity & processing, survey data collection 
+
 📌 Analytics Time-to-event analysis, applied machine learning, instrumental variable analysis, propensity score matching, mixed-method models, high-dimensional mediation analysis 
+
 📌 Programming & Computing R, Python, SQL, Git/GitHub, cloud computing, high-performance computing
 
 * 🌍  I'm based in Chicago
