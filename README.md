@@ -7,7 +7,7 @@ I'm an epidemiologist who loves turning health data into meaningful insights. Wh
 
 My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific Analysis of Genome-Wide 5-Hydroxymethylcytosine in Circulating Cell-Free DNA 
 
-🚀My expertise: 
+🚀 My expertise: 
 
 📌 Study Designs & Methodology: Observational studies (cohort, case-control), bias & confounding control, causal inference, sampling strategies, data integrity & processing, survey data collection 
 
@@ -17,4 +17,4 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 
 ✉️  You can contact me at [beiwang2019@gmail.com](mailto:beiwang2019@gmail.com)
 
-📖   View my publication: https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
+📖  View my publication: https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
