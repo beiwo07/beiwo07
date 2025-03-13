@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an epidemiologist who loves turning health data into meaningful insights. Whether it's electronic health records, lab results, patient-reported, or omics data-- I enjoy connecting the dots! My research experience spans cancer, biomarker discovery, and aging. 
 
 🔍 Currently working on: 
+
 My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific Analysis of Genome-Wide 5-Hydroxymethylcytosine in Circulating Cell-Free DNA 
 
 🚀My expertise: 
