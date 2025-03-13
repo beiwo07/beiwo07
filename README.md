@@ -16,3 +16,5 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 📌 Programming & Computing: R, Python, SQL, Git/GitHub, cloud computing, high-performance computing
 
 ✉️  You can contact me at [beiwang2019@gmail.com](mailto:beiwang2019@gmail.com)
+
+📖  View my publication: https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
