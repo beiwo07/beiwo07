@@ -17,4 +17,4 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 
 ✉️  You can contact me at [beiwang2019@gmail.com](mailto:beiwang2019@gmail.com)
 
-📖  View my publication: https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
+📖   View my publication: https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
