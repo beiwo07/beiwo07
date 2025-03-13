@@ -9,10 +9,10 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 
 🚀My expertise: 
 
-📌 Study Designs & Methodology Observational studies (cohort, case-control), bias & confounding control, causal inference, sampling strategies, data integrity & processing, survey data collection 
+📌 Study Designs & Methodology: Observational studies (cohort, case-control), bias & confounding control, causal inference, sampling strategies, data integrity & processing, survey data collection 
 
-📌 Analytics Time-to-event analysis, applied machine learning, instrumental variable analysis, propensity score matching, mixed-method models, high-dimensional mediation analysis 
+📌 Analytics: Time-to-event analysis, applied machine learning, instrumental variable analysis, propensity score matching, mixed-method models, high-dimensional mediation analysis 
 
-📌 Programming & Computing R, Python, SQL, Git/GitHub, cloud computing, high-performance computing
+📌 Programming & Computing: R, Python, SQL, Git/GitHub, cloud computing, high-performance computing
 
 ✉️  You can contact me at [beiwang2019@gmail.com](mailto:beiwang2019@gmail.com)
