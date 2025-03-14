@@ -21,6 +21,6 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 - [Introduction to Genomic Technologies By Coursera](https://www.coursera.org/account/accomplishments/certificate/Y9TL6YSMGXZM)
 - [Statistics for Genomic Data Science By Coursera](https://www.coursera.org/account/accomplishments/certificate/JCNZPU8WPRZH)
 
-📖  View my publication: https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
+📌 **View my publication:** https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
 
 ✉️  Contact me at [beiwang2019@gmail.com](mailto:beiwang2019@gmail.com)
