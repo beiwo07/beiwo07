@@ -15,13 +15,13 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 
 - Programming & computing: R, Python, SQL, Git/GitHub, cloud computing, high-performance computing
 
+📌 **View my publication:** https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
+
 📌 **Ceritificates:** 
 
 - [SHARP Training in Mendelian Randomization Boot Camp By Columbia University](https://lnkd.in/esX5uzQh)
 - [Introduction to Genomic Technologies By Coursera](https://www.coursera.org/account/accomplishments/certificate/Y9TL6YSMGXZM)
 - [Statistics for Genomic Data Science By Coursera](https://www.coursera.org/account/accomplishments/certificate/JCNZPU8WPRZH)
-
-📌 **View my publication:** https://scholar.google.com/citations?user=kvsLMHgAAAAJ&hl=en
 
 
 ✉️  Contact me at [beiwang2019@gmail.com](mailto:beiwang2019@gmail.com)
