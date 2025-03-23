@@ -9,7 +9,7 @@ My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific A
 
 📌 **My expertise:** 
 
-- Designs & methodology: Observational studies (cohort, case-control), clinical trial methodology, bias & confounding control, causal inference, sampling strategies, data integrity & processing, survey data collection 
+- Designs & methodology: Observational studies (cohort, case-control), clinical trial, bias & confounding control, causal inference, sampling strategies, data integrity & processing, survey data collection 
 
 - Analytics: Time-to-event analysis, applied machine learning, instrumental variable analysis, propensity score matching, mixed-effect models, high-dimensional mediation analysis 
 
