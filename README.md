@@ -5,7 +5,7 @@ I'm an epidemiologist who loves turning health data into meaningful insights. Wh
 
 🔍 **Currently working on:** 
 
-My doctoral thesis-- Decoding Multiple Myeloma Outcomes: A Population-Specific Analysis of Genome-Wide 5-Hydroxymethylcytosine in Circulating Cell-Free DNA 
+My doctoral thesis-- Decoding Multiple Myeloma Outcomes Through Analysis of Genome-Wide 5-Hydroxymethylcytosine in Circulating Cell-Free DNA 
 
 📌 **My expertise:** 
 
