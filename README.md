@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bei
 ===========================================================================================================================
 
-I'm an epidemiologist who loves turning health data into meaningful insights. Whether it's electronic health records, lab results, patient-reported, or omics data-- I enjoy connecting the dots! My research experience spans population health, cancer, biomarker discovery, and aging. 
+I'm an epidemiologist who loves turning health data into meaningful insights. Whether it's electronic health records, lab results, patient-reported, or omics data-- I enjoy connecting the dots! My research experience spans cancer, precision medicine, and aging. 
 
 🔍 **Currently working on:** 
 
